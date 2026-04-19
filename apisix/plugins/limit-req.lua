@@ -91,7 +91,7 @@ local _M = {
     version = 0.1,
     priority = 1001,
     name = plugin_name,
-    aa = "sss",
+    aa = "sss111",
     schema = schema,
 }
 
